@@ -174,9 +174,10 @@ Developed in the context of HUX AI’s research on:
 - Responsible and human-centred AI systems
 
 For more context: https://huxai.tech/hux-research-hub/
-----
-<img align="left" img width="1280" height="720" alt="image" src="https://github.com/HUX-AI/context-aware-safety-layer/blob/main/HUX_AI-Ritual.pptx.jpg" />
 
+---
+
+<img align="left" img width="640" height="360" alt="image" src="https://github.com/HUX-AI/context-aware-safety-layer/blob/main/HUX_AI-Ritual.pptx.jpg" />
 
 
 ----
@@ -188,10 +189,10 @@ For more context: https://huxai.tech/hux-research-hub/
 * [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7365810411406868483) our Newsletter!
 * [Super Study Guide: Dönüştürücüler ve Büyük Dil Modeli](https://leanpub.com/donusturuculer-buyuk-dil-modelleri)
 
-###  Contributing
+### Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
-###  Contact
+### Contact
 
 For any questions or inquiries, please contact [Dr. Merve Ayyüce KIZRAK](https://www.linkedin.com/in/merve-ayyuce-kizrak/), [Enes Basbug](https://www.linkedin.com/in/enesbasbug/), [Hayriye Anıl](https://www.linkedin.com/in/hayriye-anil/), [Sami Tuğal](https://www.linkedin.com/in/samitugal/)
 
