@@ -180,7 +180,7 @@ For more context: https://huxai.tech/hux-research-hub/
 <img align="left" img width="640" height="360" alt="image" src="https://github.com/HUX-AI/context-aware-safety-layer/blob/main/HUX_AI-Ritual.pptx.jpg" />
 
 
-----
+
 <img align="right" img width="196" height="282" alt="image" src="https://github.com/user-attachments/assets/cfd9f7a9-7563-4884-8eb0-48cc401e4d13" />
 
 
